@@ -84,7 +84,7 @@ namespace Arbeidskrav1
 
                 }
             
-                //FJERN!! TESTER PUSH 
+               
                  else if (comboBox_ComPorts.SelectedIndex == 0 || comboBox_BitRate.SelectedIndex == 0)
                  {
                      MessageBox.Show("No connection established");
