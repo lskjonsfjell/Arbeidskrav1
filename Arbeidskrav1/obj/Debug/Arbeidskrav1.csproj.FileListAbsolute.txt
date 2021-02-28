@@ -1,0 +1,12 @@
+C:\Users\lskjo\source\repos\Arbeidskrav1\bin\Debug\Arbeidskrav1.exe.config
+C:\Users\lskjo\source\repos\Arbeidskrav1\bin\Debug\Arbeidskrav1.exe
+C:\Users\lskjo\source\repos\Arbeidskrav1\bin\Debug\Arbeidskrav1.pdb
+C:\Users\lskjo\source\repos\Arbeidskrav1\obj\Debug\Arbeidskrav1.csprojAssemblyReference.cache
+C:\Users\lskjo\source\repos\Arbeidskrav1\obj\Debug\Arbeidskrav1.FormMain.resources
+C:\Users\lskjo\source\repos\Arbeidskrav1\obj\Debug\Arbeidskrav1.Properties.Resources.resources
+C:\Users\lskjo\source\repos\Arbeidskrav1\obj\Debug\Arbeidskrav1.csproj.GenerateResource.cache
+C:\Users\lskjo\source\repos\Arbeidskrav1\obj\Debug\Arbeidskrav1.csproj.CoreCompileInputs.cache
+C:\Users\lskjo\source\repos\Arbeidskrav1\obj\Debug\Arbeidskrav1.exe
+C:\Users\lskjo\source\repos\Arbeidskrav1\obj\Debug\Arbeidskrav1.pdb
+C:\Users\lskjo\source\repos\Arbeidskrav1\obj\Debug\Arbeidskrav1.AboutBox1.resources
+C:\Users\lskjo\source\repos\Arbeidskrav1\obj\Debug\Arbeidskrav1.Form1Password.resources
